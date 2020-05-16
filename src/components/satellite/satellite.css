@@ -1,0 +1,11 @@
+.satellite .bg {
+  fill: hsl(0, 0%, 100%);
+}
+
+.satellite .outer {
+  fill: transparent;
+  stroke: hsl(0, 0%, 0%);
+}
+.satellite .shadow {
+  fill: hsl(0, 0%, 25%);
+}
