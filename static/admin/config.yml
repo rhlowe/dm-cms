@@ -18,3 +18,23 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "race"
+    label: "Race"
+    folder: "content/races"
+    create: true
+    slug: "{{slug}}"
+    editor:
+     preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Source"
+        name: "source"
+        widget: "select"
+        options:
+          - { label: "Player's Handbook", value: "phb"}
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
