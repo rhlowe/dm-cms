@@ -14,4 +14,4 @@ It's hard to make generalizations about humans, but your human character has the
 
 **Speed.** Your base walking speed is 30 feet.
 
-**Languages.** Vou can speak, read, and write the Local Language and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues.
+**Languages.** Vou can speak, read, and write the local language and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues.

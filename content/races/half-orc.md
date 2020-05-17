@@ -11,7 +11,7 @@ Your half-orc character has certain traits deriving from your orc ancestry.
 
 **Age.** Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
 
-**Size.** Half-ores are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium. 
+**Size.** Half-ores are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
 
 **Speed.** Your base walking speed is 30 feet.
 
@@ -23,4 +23,4 @@ Your half-orc character has certain traits deriving from your orc ancestry.
 
 **Savage Attacks.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the criticaI hit.
 
-**Languages.** You can speak, read, and write the Local Language and Orc. Orc is a harsh, grating language with hard consonants. It is written in a blocky, geometric script.
+**Languages.** You can speak, read, and write the local language and Orc. Orc is a harsh, grating language with hard consonants. It is written in a blocky, geometric script.

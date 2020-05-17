@@ -34,7 +34,10 @@ collections:
         name: "source"
         widget: "select"
         options:
+          - { label: "Elemental Evil Players Companion", value: "eepc"}
+          - { label: "Explorer's Guide to Wildemount", value: "egw"}
           - { label: "Player's Handbook", value: "phb"}
+          - { label: "Volos Guide to Monsters", value: "vgtm"}
       - label: "Page"
         name: "page"
         widget: "number"

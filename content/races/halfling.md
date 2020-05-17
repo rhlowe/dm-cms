@@ -21,7 +21,7 @@ Your halfling character has a number of traits in common with ali other halfling
 
 **Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours.
 
-**Languages.** You can speak, read, and write the Local Language and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak the Local Language to converse with the people in whose lands they dwell or through which they are traveling.
+**Languages.** You can speak, read, and write the local language and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak the Local Language to converse with the people in whose lands they dwell or through which they are traveling.
 
 **Subrace.** The two main kinds of halfling. lightfoot and stout, are more like closely related families than true subraces. Choose one of these subraces.
 
